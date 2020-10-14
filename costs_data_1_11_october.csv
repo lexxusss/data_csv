@@ -1,55 +1,56 @@
-ga:date,ga:sourceMedium,ga:adCost
-20201001,adzuna / cpc,17.10
-20201001,bing / cpc,202.10
-20201001,facebook / experiment,155.39
-20201001,joblookup / cpc,1.38
-20201001,jobtome / cpc,420.66
-20201002,adzuna / cpc,57.15
-20201002,bing / cpc,184.85
-20201002,facebook / experiment,117.91
-20201002,joblookup / cpc,8.63
-20201002,jobtome / cpc,264.87
-20201003,adzuna / cpc,1394.10
-20201003,bing / cpc,134.09
-20201003,facebook / experiment,145.35
-20201003,joblookup / cpc,23.92
-20201003,jobtome / cpc,124.65
-20201004,adzuna / cpc,1224.90
-20201004,bing / cpc,157.38
-20201004,facebook / experiment,184.11
-20201004,joblookup / cpc,33.35
-20201004,jobtome / cpc,41.40
-20201005,adzuna / cpc,26.10
-20201005,bing / cpc,262.92
-20201005,facebook / experiment,122.58
-20201005,joblookup / cpc,5.50
-20201005,jobtome / cpc,169.56
-20201006,adzuna / cpc,18.90
-20201006,bing / cpc,205.87
-20201006,facebook / experiment,164.53
-20201006,joblookup / cpc,45.90
-20201006,jobtome / cpc,49.23
-20201007,adzuna / cpc,0.00
-20201007,bing / cpc,245.38
-20201007,facebook / experiment,655.16
-20201007,joblookup / cpc,17.10
-20201007,jobtome / cpc,20.43
-20201008,adzuna / cpc,27.00
-20201008,bing / cpc,165.09
-20201008,facebook / experiment,425.10
-20201008,joblookup / cpc,15.80
-20201008,jobtome / cpc,28.62
-20201009,adzuna / cpc,177.30
-20201009,bing / cpc,195.76
-20201009,facebook / experiment,297.99
-20201009,joblookup / cpc,5.60
-20201009,jobtome / cpc,13.23
-20201010,adzuna / cpc,108.90
-20201010,bing / cpc,149.75
-20201010,facebook / experiment,224.63
-20201010,joblookup / cpc,2.80
-20201010,jobtome / cpc,67.14
-20201011,adzuna / cpc,158.40
-20201011,bing / cpc,141.11
-20201011,facebook / experiment,262.69
-20201011,joblookup / cpc,0.00
+ga:date,ga:medium,ga:source,ga:adCost
+20201001,cpc,adzuna,17.1
+20201001,cpc,bing,202.1
+20201001,cpc,joblookup,1.38
+20201001,cpc,jobtome,420.66
+20201001,experiment,facebook,155.39
+20201002,cpc,adzuna,57.15
+20201002,cpc,bing,184.85
+20201002,cpc,joblookup,8.63
+20201002,cpc,jobtome,264.87
+20201002,experiment,facebook,117.91
+20201003,cpc,adzuna,1394.1
+20201003,cpc,bing,134.09
+20201003,cpc,joblookup,23.92
+20201003,cpc,jobtome,124.65
+20201003,experiment,facebook,145.35
+20201004,cpc,adzuna,1224.9
+20201004,cpc,bing,157.38
+20201004,cpc,joblookup,33.35
+20201004,cpc,jobtome,41.4
+20201004,experiment,facebook,184.11
+20201005,cpc,adzuna,26.1
+20201005,cpc,bing,262.92
+20201005,cpc,joblookup,5.5
+20201005,cpc,jobtome,169.56
+20201005,experiment,facebook,122.58
+20201006,cpc,adzuna,18.9
+20201006,cpc,bing,205.87
+20201006,cpc,joblookup,45.9
+20201006,cpc,jobtome,49.23
+20201006,experiment,facebook,164.53
+20201007,cpc,adzuna,0
+20201007,cpc,bing,245.38
+20201007,cpc,joblookup,17.1
+20201007,cpc,jobtome,20.43
+20201007,experiment,facebook,655.16
+20201008,cpc,adzuna,27
+20201008,cpc,bing,165.09
+20201008,cpc,joblookup,15.8
+20201008,cpc,jobtome,28.62
+20201008,experiment,facebook,425.1
+20201009,cpc,adzuna,177.3
+20201009,cpc,bing,195.76
+20201009,cpc,joblookup,5.6
+20201009,cpc,jobtome,13.23
+20201009,experiment,facebook,297.99
+20201010,cpc,adzuna,108.9
+20201010,cpc,bing,149.75
+20201010,cpc,joblookup,2.8
+20201010,cpc,jobtome,67.14
+20201010,experiment,facebook,224.63
+20201011,cpc,adzuna,158.4
+20201011,cpc,bing,141.11
+20201011,cpc,joblookup,0
+20201011,cpc,jobtome,50.58
+20201011,experiment,facebook,262.69
