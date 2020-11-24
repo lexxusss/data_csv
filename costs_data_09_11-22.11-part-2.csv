@@ -1,5 +1,4 @@
 ga:date,ga:medium,ga:source,ga:adCost
-20201110,cpc,MyJobHelper,310.03
 20201110,cpc,MyJobHelper,383.21
 20201111,cpc,MyJobHelper,385.37
 20201112,cpc,MyJobHelper,465.04
@@ -19,3 +18,4 @@ ga:date,ga:medium,ga:source,ga:adCost
 20201119,cpc,ziprecruiter,7.74
 20201120,cpc,ziprecruiter,14.62
 20201121,cpc,ziprecruiter,12.04
+20201122,cpc,ziprecruiter,12.04
